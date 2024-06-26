@@ -1,4 +1,4 @@
-# DevOps Ninja
+# DevOps CLIs
 
 This is a collection of some very useful command-line commands that eases the life of a DevOps Engineer.  
 Please Feel free to fork and/or PR if you have any additions.
